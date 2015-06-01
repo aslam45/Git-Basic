@@ -192,5 +192,10 @@ footer p {
 }
 
 .brand {
-	color: #ff0000;
+<<<<<<< HEAD
+	color: #fab11c;
 }
+=======
+	color: #40e0d0;
+}
+>>>>>>> 90f67640933811aa36b92c44ea4f2212679c0115
